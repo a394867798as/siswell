@@ -1,2 +1,2 @@
-# siswell
-company web site
+# sql table 
+# 获取Sql语句中table
